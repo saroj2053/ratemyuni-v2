@@ -12,7 +12,7 @@ import {
 } from "@chakra-ui/react";
 import { Plus } from "lucide-react";
 import { Link } from "react-router-dom";
-import UniversityCard from "../components/University/UniversityCard";
+import UniversityCard from "../components/university/UniversityCard";
 
 import { useColorModeValue } from "../components/ui/color-mode";
 import { useSelector } from "react-redux";
